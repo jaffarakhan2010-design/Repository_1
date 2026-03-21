@@ -1,0 +1,14 @@
+arm_64bit=1
+
+kernel_address=0x80000
+kernel=kernel8.img
+
+kernel_old=0
+
+enable_uart=1
+dtparam=audio=on
+
+dtparam=pwr_led_trigger=none
+dtparam=act_led_trigger=none
+
+#video=HDMI-A-1:256x240@60D
