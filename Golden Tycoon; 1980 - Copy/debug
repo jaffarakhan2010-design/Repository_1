@@ -1,0 +1,167 @@
+    #     self.building_2 = Universal_Building((start, 100), self.world_group)
+    #     self.building_3 = Universal_Building((start, 200), self.world_group) #
+    #     self.building_4 = Universal_Building((start, 300), self.world_group)
+    #     self.building_5 = Universal_Building((start, 400), self.world_group)
+    #     self.building_6 = Universal_Building((start, 500), self.world_group)
+    #     self.building_7 = Universal_Building((start, 600), self.world_group)
+    #     self.building_8 = Universal_Building((start, 800), self.world_group) #
+    #     self.building_9 = Universal_Building((start, 900), self.world_group)
+    #     self.building_10 = Universal_Building((start, 1000), self.world_group) #
+
+    #     #NO.2 one section to the right
+    #     self.building_11 = Universal_Building((start + 100, 0), self.world_group) #
+    #     self.building_12 = Universal_Building((start + 100, 100), self.world_group) #
+    #     self.building_13 = Universal_Building((start + 100, 200), self.world_group) #
+    #     self.building_14 = Universal_Building((start + 100, 300), self.world_group) #
+    #     self.building_15 = Universal_Building((start + 100, 400), self.world_group) #
+    #     self.building_16 = Universal_Building((start + 100, 500), self.world_group) #
+    #     self.building_17 = Universal_Building((start + 100, 600), self.world_group) #
+    #     self.building_18 = Universal_Building((start + 100, 800), self.world_group)
+    #     self.building_19 = Universal_Building((start + 100, 900), self.world_group) #
+    #     self.building_20 = Universal_Building((start + 100, 1000), self.world_group)
+
+    #     #NO.3 section 2nd to right
+    #     self.building_21 = Universal_Building((start + 200, 0), self.world_group)
+    #     self.building_22 = Universal_Building((start + 200, 100), self.world_group)
+    #     self.building_23 = Universal_Building((start + 200, 200), self.world_group)
+    #     self.building_24 = Universal_Building((start + 200, 300), self.world_group)
+    #     self.building_25 = Universal_Building((start + 200, 400), self.world_group)
+    #     self.building_26 = Universal_Building((start + 200, 500), self.world_group)
+    #     self.building_27 = Universal_Building((start + 200, 600), self.world_group)
+    #     self.building_28 = Universal_Building((start + 200, 800), self.world_group)
+    #     self.building_29 = Universal_Building((start + 200, 900), self.world_group)
+    #     self.building_30 = Universal_Building((start + 200, 1000), self.world_group)
+
+    #     #No.4 section 3rd to the right
+    #     self.building_31 = Universal_Building((start + 300, 0), self.world_group)
+    #     self.building_32 = Universal_Building((start + 300, 100), self.world_group) #
+    #     self.building_33 = Universal_Building((start + 300, 200), self.world_group)
+    #     self.building_34 = Universal_Building((start + 300, 300), self.world_group) #
+    #     self.building_35 = Universal_Building((start + 300, 400), self.world_group)
+    #     self.building_36 = Universal_Building((start + 300, 500), self.world_group)
+    #     self.building_37 = Universal_Building((start + 300, 600), self.world_group) #
+    #     self.building_38 = Universal_Building((start + 300, 800), self.world_group) #
+    #     self.building_39 = Universal_Building((start + 300, 900), self.world_group)
+    #     self.building_40 = Universal_Building((start + 300, 1000), self.world_group)
+
+    #     #No.5 Section 4th to the right
+    #     self.building_41 = Universal_Building((start + 400, 0), self.world_group)
+    #     self.building_42 = Universal_Building((start + 400, 100), self.world_group)
+    #     self.building_43 = Universal_Building((start + 400, 200), self.world_group)
+    #     self.building_44 = Universal_Building((start + 400, 300), self.world_group)
+    #     self.building_45 = Universal_Building((start + 400, 400), self.world_group)
+    #     self.building_46 = Universal_Building((start + 400, 500), self.world_group)
+    #     self.building_47 = Universal_Building((start + 400, 600), self.world_group)
+    #     self.building_48 = Universal_Building((start + 400, 800), self.world_group)
+    #     self.building_49 = Universal_Building((start + 400, 900), self.world_group) #
+    #     self.building_50 = Universal_Building((start + 400, 1000), self.world_group) #
+
+    #     #No.6 Section 5th to right
+    #     self.building_51 = Universal_Building((start + 500, 0), self.world_group)
+    #     self.building_52 = Universal_Building((start + 500, 100), self.world_group)
+    #     self.building_53 = Universal_Building((start + 500, 200), self.world_group) #
+    #     self.building_54 = Universal_Building((start + 500, 300), self.world_group)
+    #     self.building_55 = Universal_Building((start + 500, 400), self.world_group)
+    #     self.building_56 = Universal_Building((start + 500, 500), self.world_group)
+    #     self.building_57 = Universal_Building((start + 500, 600), self.world_group)
+    #     self.building_58 = Universal_Building((start + 500, 800), self.world_group)
+    #     self.building_59 = Universal_Building((start + 500, 900), self.world_group)
+    #     self.building_60 = Universal_Building((start + 500, 1000), self.world_group) #
+
+    #     #No.7 Section 6th to the right
+    #     self.building_61 = Universal_Building((start + 600, 0), self.world_group)
+    #     self.building_62 = Universal_Building((start + 600, 100), self.world_group) #
+    #     self.building_63 = Universal_Building((start + 600, 200), self.world_group)
+    #     self.building_64 = Universal_Building((start + 600, 300), self.world_group) #
+    #     self.building_65 = Universal_Building((start + 600, 400), self.world_group)
+    #     self.building_66 = Universal_Building((start + 600, 500), self.world_group)
+    #     self.building_67 = Universal_Building((start + 600, 600), self.world_group)
+    #     self.building_68 = Universal_Building((start + 600, 800), self.world_group) #
+    #     self.building_69 = Universal_Building((start + 600, 900), self.world_group)
+    #     self.building_70 = Universal_Building((start + 600, 1000), self.world_group)
+        
+    #     #No.8 Section 7th to the right
+    #     self.building_71 = Universal_Building((start + 700, 0), self.world_group)
+    #     self.building_72 = Universal_Building((start + 700, 100), self.world_group)
+    #     self.building_73 = Universal_Building((start + 700, 200), self.world_group)
+    #     self.building_74 = Universal_Building((start + 700, 300), self.world_group)
+    #     self.building_75 = Universal_Building((start + 700, 400), self.world_group) #
+    #     self.building_76 = Universal_Building((start + 700, 500), self.world_group)
+    #     self.building_77 = Universal_Building((start + 700, 600), self.world_group)
+    #     self.building_78 = Universal_Building((start + 700, 800), self.world_group)
+    #     self.building_79 = Universal_Building((start + 700, 900), self.world_group)
+    #     self.building_80 = Universal_Building((start + 700, 1000), self.world_group)
+
+    #     #No.9 Section 8th to the right
+    #     self.building_81 = Universal_Building((start + 800, 0), self.world_group)
+    #     self.building_82 = Universal_Building((start + 800, 100), self.world_group)
+    #     self.building_83 = Universal_Building((start + 800, 200), self.world_group)
+    #     self.building_84 = Universal_Building((start + 800, 300), self.world_group) #
+    #     self.building_85 = Universal_Building((start + 800, 400), self.world_group)
+    #     self.building_86 = Universal_Building((start + 800, 500), self.world_group)
+    #     self.building_87 = Universal_Building((start + 800, 600), self.world_group)
+    #     self.building_88 = Universal_Building((start + 800, 800), self.world_group)
+    #     self.building_89 = Universal_Building((start + 800, 900), self.world_group)
+    #     self.building_90 = Universal_Building((start + 800, 1000), self.world_group) #
+
+    #     #No.10 Section 9th to the right
+    #     self.building_91 = Universal_Building((start + 900, 0), self.world_group)
+    #     self.building_92 = Universal_Building((start + 900, 100), self.world_group)
+    #     self.building_93 = Universal_Building((start + 900, 200), self.world_group) #
+    #     self.building_94 = Universal_Building((start + 900, 300), self.world_group)
+    #     self.building_95 = Universal_Building((start + 900, 400), self.world_group) #
+    #     self.building_96 = Universal_Building((start + 900, 500), self.world_group)
+    #     self.building_97 = Universal_Building((start + 900, 600), self.world_group) #
+    #     self.building_98 = Universal_Building((start + 900, 800), self.world_group)
+    #     self.building_99 = Universal_Building((start + 900, 900), self.world_group) #
+    #     self.building_100 = Universal_Building((start + 900, 1000), self.world_group) #
+        
+
+    
+    # def render(self):
+    #     self.world_group.draw(self.world_display)
+    #     self.world_group.update()
+
+    # def update(self, cursor):
+    #     self.cursor = cursor
+        
+
+    # def setup(self):
+    #     #Steel
+    #     self.building_1.industrial_steel = True
+    #     self.building_68.industrial_steel = True
+    #     self.building_95.industrial_steel = True
+    #     self.building_84.industrial_steel = True
+    #     self.building_14.industrial_steel = True
+    #     self.building_10.industrial_steel = True
+    #     self.building_100.industrial_steel = True
+
+    #     #CPU
+    #     self.building_97.industrial_CPU = True
+    #     self.building_90.industrial_CPU = True
+    #     self.building_34.industrial_CPU = True
+    #     self.building_38.industrial_CPU = True
+    #     self.building_19.industrial_CPU = True
+    #     self.building_50.industrial_CPU = True
+    #     self.building_49.industrial_CPU = True
+
+    #     #GPU
+    #     self.building_53.industrial_graphics_card = True
+    #     self.building_75.industrial_graphics_card = True
+    #     self.building_37.industrial_graphics_card = True
+    #     self.building_64.industrial_graphics_card = True
+    #     self.building_99.industrial_graphics_card = True
+    #     self.building_8.industrial_graphics_card = True
+    #     self.building_3.industrial_graphics_card = True
+
+    #     #House_1
+    #     self.building_60.house_1 = True
+    #     self.building_32.house_1 = True
+    #     self.building_12.house_1 = True
+    #     self.building_17.house_1 = True
+    #     self.building_16.house_1 = True
+    #     self.building_15.house_1 = True
+    #     self.building_62.house_1 = True
+    #     self.building_13.house_1 = True
+    #     self.building_11.house_1 = True
+    #     self.building_93.house_1 = True

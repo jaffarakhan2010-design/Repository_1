@@ -1,0 +1,3 @@
+First, Reorganize and implementa  better system with regions to combat, preformance debuffs.
+Next time, when creating a game utilize the GPU aspect
+Implement The bank system, and the stock market
