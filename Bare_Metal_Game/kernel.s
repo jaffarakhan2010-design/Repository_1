@@ -5,7 +5,7 @@ _start:
     //Works on Raspberry Pi 5 AARCH64 - 64 bit
     //This is a Baremetal Program
     //No Library
-    //Copyright by Jaffar A Khan 2026
+    //Copyright by [REDACTED] 2026
     //Jaffar is Only 15
     //File Format Is Called TFP5 Created by Jaffar
 
